@@ -27,3 +27,20 @@ print(x)
 x = 5
 x <<= 2
 print(x)
+
+
+##  Membership Operators
+
+text = "Hello World"
+
+print("H" in text)
+print("hello" in text)
+print("z" not in text)
+
+
+
+####              Bitwise Operators
+
+a = 5
+
+print(~a)     #rule for int. -a=-(a+1)
