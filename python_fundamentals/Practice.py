@@ -1,0 +1,1 @@
+print("your path:\n\tpython\n\tAi\n\tdata")
